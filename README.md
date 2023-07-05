@@ -1,6 +1,6 @@
 # Keychain
 
-![Dice keychain by Iannella Christian](https://github.com/ChristianIannella/Keychain/blob/main/Docs/IMG_2142.JPG)
+![Dice keychain by Iannella Christian](https://github.com/ChristianIannella/Keychain/blob/main/Dice/Docs/IMG_2136.JPG)
 
 
 DIY electronic keychain 
